@@ -1,4 +1,4 @@
-# JSON to XML converter, encryption and transfer to AWS S3 using Python
+# JSON to XML converter
 
 The repo consiits of two Python scripts, the first one converts JSON files to XML, encrypt the converted file, and transfer it to Amazon S3 bucket. While the second one is downloading the file from the S3 bucket, decrypt it, and save it on a directory called “XML”.
 
